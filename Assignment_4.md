@@ -11,9 +11,9 @@ a "^" symbol between (p->r) and (q->r), it can be interpreted as (p v q) -> r.
 (p->r) ^ (q->r) <=> (p v q) -> r
 (p' v r) ^ (q' v r) <=> (p v q) -> r              implication
 (p' v q' v r) ^ (q' v p' v r) <=> (p v q) -> r    distrubutive
-(p' v q' v r) <=> (p v q) -> r                    equivilance
-(p' v q') -> r <=> (p v q) -> r                   implication
-(p v q) -> r <=> (p v q) -> r                     equivilance
+p' v q' v r <=> (p v q) -> r                      equivilance
+(p v q)' v r <=> (p v q) -> r                     De Morgan
+(p v q) -> r <=> (p v q) -> r                     implication
 
 Are (pvq) v r and ((p^q) ^ r)' logically equivilant?
 
