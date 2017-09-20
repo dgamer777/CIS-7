@@ -1,5 +1,5 @@
-If n = 25, 100, or 169, then n is a perfect square and is the sum of two perfect squares.
-This can be proven by a direct proof.The direct proof is the Pythagorean Theorem as it contains three different numbers being squared.
+If n = 25, 100, or 169, then n is a perfect square and is the sum of two perfect squares. 
+This can be proven by a direct proof.The direct proof is the Pythagorean Theorem as it contains three different numbers being squared. 
 Since n is a perfect square it can replace z squared in the theorem.
 (z)^2 = (x)^2 + (y)^2
 n = (x)^2 + (y)^2
